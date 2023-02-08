@@ -5,7 +5,7 @@ var
    Numero1: inteiro
    Numero2: inteiro
    Soma: inteiro
-   Media: real //quando há divisões, a linguagem utiliza frações e ñ inteiros
+   Media: real //quando hÃ¡ divisÃµes, a linguagem utiliza fraÃ§Ãµes e Ã± inteiros
 inicio
       Nome <- "Andrei"
 
@@ -19,7 +19,7 @@ inicio
       Escreval("Ok ", Nome1, ", digite o segundo numero:")
       Leia(Numero2)
       Soma <- Numero1 + Numero2
-      Escreval("O resultado da soma é: ",Soma)
+      Escreval("O resultado da soma Ã©: ",Soma)
       Media <- (Numero1 + Numero2)/2
-      Escreva("O a média entre esses número é: ", Media)
+      Escreva("O a mÃ©dia entre esses nÃºmero Ã©: ", Media)
 fimalgoritmo
